@@ -42,8 +42,15 @@ I am a **passionate data explorer** 📊 and an **aspiring data analyst** 📈 d
 
 ## 📫 Get in Touch
 
-- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/sahil-kumar-576313250/)
-- **Gmail**: sahilss6205@gmail.com
+<p>
+  <a href="mailto:sahilss6205@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sahil-kumar-576313250/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
 
 ---
 
